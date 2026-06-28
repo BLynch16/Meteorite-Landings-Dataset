@@ -7,4 +7,4 @@ Tableau visualizations and an interactive dashboard to explore meteorite mass, c
 ## Data
 - **Source:** data.gov
 - **Size:** 45,716 records
-- **Variables:** name, id, nametype, recclass, mass (g), fall, year, reclat, reclong, GeoLocation.
+- **Variables:** name, id, nametype, recclass, mass (g), fall, year, reclat, reclong, GeoLocation
