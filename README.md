@@ -7,7 +7,8 @@ Tableau visualizations and an interactive dashboard to explore meteorite mass, c
 ## Interactive Dashboard
 [**View the Tableau dashboard**](https://bit.ly/meteorite-dashboard)
 
-![Dashboard Screenshot](<img width="1382" height="751" alt="Image" src="https://github.com/user-attachments/assets/52b9b153-39ef-4927-819f-8aea2f733a12" />)
+<img width="1382" height="751" alt="Image" src="https://github.com/user-attachments/assets/52b9b153-39ef-4927-819f-8aea2f733a12" />
+
 ## Data
 - **Source:** data.gov
 - **Size:** 45,716 records
