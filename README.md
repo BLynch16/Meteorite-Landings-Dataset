@@ -5,7 +5,7 @@ This project analyzes NASA's Meteorite Landings dataset by cleaning and transfor
 Tableau visualizations and an interactive dashboard to explore meteorite mass, classification type, and global distribution.
 
 ## Interactive Dashboard
-[**View the Tableau dashboard**](https://bit.ly/meteorite-dashboard)
+[**View the dashboard in Tableau Public**](https://bit.ly/meteorite-dashboard)
 
 <img width="1382" height="751" alt="Image" src="https://github.com/user-attachments/assets/52b9b153-39ef-4927-819f-8aea2f733a12" />
 
